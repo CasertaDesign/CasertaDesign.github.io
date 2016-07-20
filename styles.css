@@ -1,0 +1,22 @@
+h1 {
+	color: #0066ff;
+}
+/*This is a comment The browser will ignore it. */
+
+/*Always use a period when referring to a class*/
+
+.mainheadline {
+	color: red;
+}
+
+/*hashtags are used with IDs. 
+But remember IDs are unique and should 
+only be used with javascript.*/
+
+#mainheader {
+	font-size: 46px;
+}
+
+.pettyimage {
+	width: 50%;
+}
